@@ -1,3 +1,5 @@
+Hi, I'm Sushil. I have edited this README file.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
